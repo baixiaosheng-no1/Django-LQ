@@ -1,0 +1,243 @@
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.Nav{
+	width: 1000px;
+	height: 24px;
+	margin: 0 auto;
+}
+.Navleft{
+	float: left;
+	line-height: 24px;
+	overflow: hidden;
+	margin-left: 10px;
+	height: 24px;
+}
+.Navleft li{
+	float: left;
+	font-size: 12px;
+	letter-spacing: 2px;
+	color: #686868;
+}
+.firstli{
+	width: 70px;
+	height: 15px;
+	line-height: 15px;
+	border-right: 1px solid #DCDCDC;
+	margin-left: 4px;
+	margin-top: 5px;
+}
+.firstli a{
+	color: #686868;
+	text-decoration: none;
+}
+.Navright{
+	float: right;
+	line-height: 24px;
+	overflow: hidden;
+	margin-left: 10px;
+	height: 24px;
+}
+.Navright li{
+	float: left;
+	height: 15px;
+	line-height: 15px;
+	width: 80px;
+	border-right: 1px solid #DCDCDC;
+	margin-top: 5px;
+	letter-spacing: 2px;
+	font-size: 12px;
+	text-align: center;
+	color: #686868;
+}
+.Imgli img{
+	display: block;
+	float: left;
+	margin-left: 7px;
+	margin-top: -2px;
+}
+.Img{
+	width: 1000px;
+	height: 160px;
+	margin: 0 auto;
+}
+.car-info{
+	width: 1000px;
+	height: auto;
+	margin: 1px auto;
+	color: #6B6B6B;
+}
+.tbody{
+	width: 998px;
+	border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+    margin: 0 auto; height: auto;
+    overflow: hidden;"
+}
+.pic{
+	float: left;
+	height: 78px;
+	width: 82px;
+	line-height: 78px;
+	margin-left: 19px;
+}
+.pic img{
+	border: 1px #DEDEDE solid;
+	width: 70px;
+	height: 70px;
+	margin: 0;
+	margin-top: 3px;
+}
+.title{
+	float: left;
+	width: 180px;
+	height: 50px;
+	text-align: left;
+	margin-left: 5px;
+	margin-top: 28px;
+	overflow: hidden;
+}
+ul a{
+	text-decoration: none;
+	font-size: 12px;
+	color: #6B6B6B;;
+}
+.price{
+	float: left;
+	width: 114px;
+	height: 50px;
+	line-height: 16px;
+	margin-top: 30px;
+	text-align: center;
+}
+.Price{
+	float: left;
+	width: 96px;
+	height: 50px;
+	line-height: 16px;
+	margin-top: 30px;
+	text-align: center;
+}
+.num{
+	float: left;
+	width: 108px;
+	height: 78px;
+	text-align: center;
+	margin-left: 5px;
+	position: relative;
+}
+.jifen{
+	float: left;
+	width: 95px;
+	height: 78px;
+	line-height: 78px;
+	text-align: center;
+}
+.caozuo{
+	float: left;
+	width: 108px;
+	height: 78px;
+	line-height: 78px;
+	text-align: center;
+}
+.caozuo a{
+	color: #D10707;
+    text-decoration: underline;
+}
+.other{
+	float: left;
+	width: 149px;
+	line-height: 20px;
+	text-align: center;
+	color: #D10707;
+	padding: 29px 0;
+}
+.foor{
+	width: 1000px;
+	margin: 0 auto;
+	height: 35px;
+}
+.mess{
+	 float: left;
+     width: 743px;
+     height: 33px;
+     border: 1px solid #ccc;
+     background: #CCCCCC;
+}
+.FootRAM{
+	width: 1200px;
+	margin: 0 auto;
+}
+.Footroll{
+	width: 1200px;
+	margin: 0 auto;
+	margin-top: 30px;
+}
+.Footroll .footmin{
+	width: 736px;
+	height: 16px;
+	margin-top: 16px;
+	margin: 0 auto;
+}
+.Footroll .footbig{
+	width: 817px;
+	height: 16px;
+	margin: 10px 191px 0px 191px;
+}
+.Footroll p{
+	width: 462px;
+	height: 24px;
+	line-height: 24px;
+	font-size: 11px;
+	color: #BDBDBD;
+	margin: 0 auto;
+}
+.Footroll .footmin li{
+	cursor: pointer;
+    height: 12px;
+    line-height: 12px;
+    float: left;
+    border-right: 1px solid #929292;
+    color: #333333;
+    width: 80px;
+    text-align: center;
+    font-size: 12px;
+}
+.Footroll .footmin .rolllast{
+	width: auto;
+    height: 12px;
+    line-height: 12px;
+    margin-right: 8px;
+    float: left;
+    border: none;
+    color: #333333;
+    width: 80px;
+    text-align: center;
+    font-size: 12px;
+}
+.Footroll .footbig li{
+	width: 80px;
+    height: 12px;
+    line-height: 12px;
+    float: left;
+    border-right: 1px solid #929292;
+    color: #333333;
+    width: 80px;
+    text-align: center;
+    font-size: 12px;
+    cursor: pointer;
+}
+.Footroll .footbig .rolllast{
+	width: auto;
+    height: 12px;
+    line-height: 12px;
+    margin-right: 8px;
+    float: left;
+    border: none;
+    color: #333333;
+    width: 80px;
+    text-align: center;
+    font-size: 12px;
+}
